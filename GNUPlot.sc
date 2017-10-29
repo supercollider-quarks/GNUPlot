@@ -6,7 +6,7 @@ GNUPlot {
 	// additions by Oswald Berthold (2009)
 	// additions and some refactoring by Dan Stowell (2009)
 
-	classvar id, <>folder = "SC_to_GNUPlot/", <>initCode = "set data style lines\n", <>gnuplotpath="gnuplot";
+	classvar id, <>folder = "SC_to_GNUPlot/", <>initCode = "set style data lines\n", <>gnuplotpath="gnuplot";
 	classvar <>default;
 
 	var pipe,gid,<hisdata,monrout,updateFunc,<lastdata;
