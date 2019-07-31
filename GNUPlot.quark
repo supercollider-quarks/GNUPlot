@@ -9,6 +9,6 @@
 \since: "2008",
 \helpdoc: "Help/GNUPlot.html",
 \dependencies: ["MathLib"], 
-\ext_dependancy: "gnuplot",
+\ext_dependency: "gnuplot",
 \url: "http://www.nescivi.nl"
 )
